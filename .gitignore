@@ -1,15 +1,15 @@
 # Flutter / Dart
-.dart_tool/
-.packages
-.pub-cache/
-.pub/
+ev_connect_india/.dart_tool/
+ev_connect_india/.packages
+ev_connect_india/.pub-cache/
+ev_connect_india/.pub/
 
 # Build outputs
-build/
+ev_connect_india/build/
 
 # Android
-android/.gradle/
-android/local.properties
+ev_connect_india/android/.gradle/
+ev_connect_india/android/local.properties
 
 # IDE
 .idea/
@@ -19,3 +19,6 @@ android/local.properties
 # OS
 .DS_Store
 Thumbs.db
+
+# Flutter generated
+ev_connect_india/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
