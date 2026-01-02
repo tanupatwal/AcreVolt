@@ -1,4 +1,4 @@
-EV Connect – Android Application
+AcreVolt – Android Application
 Developed a comprehensive Android application that bridges the gap between EV owners, landowners, and EV charging stations.
 
 For EV Owners:

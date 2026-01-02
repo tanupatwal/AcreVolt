@@ -13,7 +13,7 @@ class EVStationHubApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'EV Connect India',
+      title: 'AcreVolt',
       theme: ThemeData(
         useMaterial3: true,
         colorScheme: ColorScheme.fromSeed(
@@ -26,7 +26,7 @@ class EVStationHubApp extends StatelessWidget {
           centerTitle: true,
           elevation: 0,
         ),
-        cardTheme: CardTheme(
+        cardTheme: CardThemeData(
           elevation: 2,
           shape:
               RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
